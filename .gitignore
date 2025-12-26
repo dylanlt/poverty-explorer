@@ -19,10 +19,6 @@ ENV/
 *.swp
 *.swo
 
-# Data cache
-data/cache/
-*.nc
-
 # Streamlit
 .streamlit/
 
